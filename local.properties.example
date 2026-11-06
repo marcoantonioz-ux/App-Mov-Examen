@@ -1,0 +1,3 @@
+# Copia MAPS_API_KEY a tu local.properties y coloca tu clave de Maps SDK for Android.
+# Android Studio configura sdk.dir con la ruta del SDK de tu equipo.
+MAPS_API_KEY=
